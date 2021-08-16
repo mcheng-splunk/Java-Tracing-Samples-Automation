@@ -5,3 +5,9 @@ target/
 node_modules/
 vendor/
 .snowman
+.jar
+*.tfstate
+*.tfstate.*
+**/.terraform/*
+.terraform.lock.hcl
+splunk-otel-javaagent-all.jar
